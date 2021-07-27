@@ -1,6 +1,6 @@
 # Description
 
-Bootstrap is awesome. 💪 But if you are advanced Bootstrap user and you are using customized and lightweight version, you may find a problem to simply  toggle ON/OFF all of the utilities Bootstrap 5 provides. Feel free to use this map to reset ALL utilities and comment or [a modify](https://getbootstrap.com/docs/5.0/utilities/api/#modify-utilities) the utilites you need. 
+Bootstrap is awesome. 💪 But if you are advanced Bootstrap user and you are using customized and lightweight version, you may find a problem to simply  toggle ON/OFF all of the utilities Bootstrap 5 provides. Feel free to use this map to reset ALL utilities add or [a modify](https://getbootstrap.com/docs/5.0/utilities/api/#modify-utilities) the utilites you need. 
 
 # SCSS $utilites reset variable: 
 
